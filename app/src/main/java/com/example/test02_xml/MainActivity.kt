@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
                 Contact(
                     photo = R.drawable.icon,
                     name = "$it",
-                    phone = "+7 000 0000"
+                    phone = "8 888 888 8888"
                 )
             )
         }
